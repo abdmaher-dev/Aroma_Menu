@@ -1,0 +1,611 @@
+{
+  "cafe": {
+    "name": "Aroma Cafe",
+    "subtitle": "Where Magic Happens",
+    "logo": ""
+  },
+  "categories": {
+    "hot_coffee": {
+      "label": "القهوة الساخنة",
+      "icon": "",
+      "subtitle": "قهوة طازجة محضّرة بأجود حبوب الأرابيكا"
+    },
+    "cold_coffee": {
+      "label": "القهوة الباردة",
+      "icon": "",
+      "subtitle": "مشروبات قهوة مثلجة لتبريد يومك"
+    },
+    "ice_tea": {
+      "label": "آيس تي",
+      "icon": "",
+      "subtitle": "شاي مثلج بنكهات منعشة ومتنوعة"
+    },
+    "mojito": {
+      "label": "موهيتو",
+      "icon": "",
+      "subtitle": "موهيتو طازج بالنعناع والليمون المنعش"
+    },
+    "milkshake": {
+      "label": "ميلك شيك",
+      "icon": "",
+      "subtitle": "ميلك شيك كريمي بنكهات لا تُقاوم"
+    },
+    "mocktail": {
+      "label": "موكتيل",
+      "icon": "",
+      "subtitle": "مشروبات فاخرة بألوان وطعم استثنائي"
+    },
+    "juices": {
+      "label": "عصاير",
+      "icon": "",
+      "subtitle": "عصاير طبيعية طازجة معصورة أمامك"
+    },
+    "desserts": {
+      "label": "الحلويات",
+      "icon": "",
+      "subtitle": "حلويات فاخرة تُكمل تجربتك معنا"
+    }
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "اسبريسو",
+      "price": "2,000",
+      "description": "شوت مركّز بعطر الأرابيكا الأصيل",
+      "image": "images/hot/1.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 2,
+      "name": "اسبريسو مزدوج",
+      "price": "3,000",
+      "description": "ضعف القوة لمن يحب نكهته جريئة",
+      "image": "images/hot/2.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 3,
+      "name": "الچاي",
+      "price": "1,000",
+      "description": "شاي أصيل دافئ بنكهة كلاسيكية",
+      "image": "images/hot/3.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 4,
+      "name": "امريكانو",
+      "price": "3,500",
+      "description": "قهوة سوداء نقية بطعم عميق وصافي",
+      "image": "images/hot/4.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 5,
+      "name": "كافيه لاتيه",
+      "price": "4,000",
+      "description": "إسبريسو بحليب مبخّر ورغوة حريرية",
+      "image": "images/hot/5.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 9,
+      "name": "لاتيه إسباني",
+      "price": "4,500",
+      "description": "لاتيه بلمسة إسبانية مع حليب مكثّف",
+      "image": "images/hot/6.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 10,
+      "name": "لاتيه كرميل",
+      "price": "4,500",
+      "description": "لاتيه بشراب الكراميل الذهبي الحلو",
+      "image": "images/hot/7.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 11,
+      "name": "لاتيه موكا",
+      "price": "4,500",
+      "description": "قهوة وشوكولاتة داكنة في كوب واحد",
+      "image": "images/hot/8.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 12,
+      "name": "لاتيه وردي",
+      "price": "4,500",
+      "description": "لاتيه بلون وردي جميل ونكهة مميزة",
+      "image": "images/hot/9.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 13,
+      "name": "شوكولاته ساخنة",
+      "price": "4,500",
+      "description": "شوكولاتة كريمية دافئة لا تُقاوم",
+      "image": "images/hot/10.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 14,
+      "name": "شاي كرك ساخن",
+      "price": "3,000",
+      "description": "كرك هندي أصيل بالحليب والبهارات",
+      "image": "images/hot/11.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 15,
+      "name": "قهوة تركية",
+      "price": "3,000",
+      "description": "قهوة تركية تقليدية بطعم أصيل",
+      "image": "images/hot/12.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 16,
+      "name": "لاتيه ماتشا",
+      "price": "6,000",
+      "description": "ماتشا يابانية فاخرة مع حليب دافئ",
+      "image": "images/hot/13.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 17,
+      "name": "V60 ساخن",
+      "price": "6,000",
+      "description": "قهوة مصفّاة بطريقة V60 الاحترافية",
+      "image": "images/hot/14.webp",
+      "category": "hot_coffee"
+    },
+    {
+      "id": 18,
+      "name": "امريكانو مثلج",
+      "price": "4,000",
+      "description": "قهوة سوداء باردة نقية ومنعشة",
+      "image": "images/ice/1.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 19,
+      "name": "لاتيه مثلج",
+      "price": "5,000",
+      "description": "لاتيه مثلج بحليب طازج وثلج ناعم",
+      "image": "images/ice/2.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 20,
+      "name": "لاتيه إسباني مثلج",
+      "price": "5,000",
+      "description": "لاتيه إسباني مثلج بحليب مكثّف",
+      "image": "images/ice/3.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 21,
+      "name": "لاتيه كراميل مثلج",
+      "price": "5,000",
+      "description": "كراميل ذهبي مثلج مع حليب طازج",
+      "image": "images/ice/4.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 22,
+      "name": "لاتيه موكا مثلج",
+      "price": "5,000",
+      "description": "قهوة وشوكولاتة مثلجة مع كريمة",
+      "image": "images/ice/5.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 23,
+      "name": "لاتيه كوكيز مثلج",
+      "price": "5,000",
+      "description": "لاتيه مثلج بنكهة الكوكيز المميزة",
+      "image": "images/ice/6.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 24,
+      "name": "لاتيه فستق مثلج",
+      "price": "5,000",
+      "description": "لاتيه مثلج بنكهة الفستق الفاخرة",
+      "image": "images/ice/7.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 25,
+      "name": "لاتيه ماشا مثلج",
+      "price": "6,000",
+      "description": "ماتشا يابانية مثلجة مع حليب بارد",
+      "image": "images/ice/8.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 26,
+      "name": "لاتيه اروما بيتك مثلج",
+      "price": "5,000",
+      "description": "لاتيه اروما بيتك بنكهة خاصة مميزة",
+      "image": "images/ice/9.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 27,
+      "name": "كولد برو",
+      "price": "7,000",
+      "description": "مخمَّرة ٢٤ ساعة لنكهة سلسة بلا حموضة",
+      "image": "images/ice/10.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 28,
+      "name": "V60 بارد",
+      "price": "6,000",
+      "description": "قهوة V60 مصفّاة مثلجة بنكهة نقية",
+      "image": "images/ice/11.webp",
+      "category": "cold_coffee"
+    },
+    {
+      "id": 29,
+      "name": "شاي مثلج بالخوخ",
+      "price": "4,000",
+      "description": "شاي بارد بنكهة الخوخ الحلوة المنعشة",
+      "image": "images/tea/1.webp",
+      "category": "ice_tea"
+    },
+    {
+      "id": 30,
+      "name": "شاي مثلج بفاكهة الباشن",
+      "price": "4,000",
+      "description": "شاي مثلج بفاكهة الباشن الاستوائية",
+      "image": "images/tea/2.webp",
+      "category": "ice_tea"
+    },
+    {
+      "id": 31,
+      "name": "شاي مثلج بالتوت الازرق",
+      "price": "4,000",
+      "description": "شاي مثلج بالتوت الأزرق حلو ومنعش",
+      "image": "images/tea/3.webp",
+      "category": "ice_tea"
+    },
+    {
+      "id": 32,
+      "name": "شاي مثلج بالكركديه",
+      "price": "4,000",
+      "description": "كركديه مثلج بلون أحمر ونكهة حامضة",
+      "image": "images/tea/4.webp",
+      "category": "ice_tea"
+    },
+    {
+      "id": 33,
+      "name": "بلو اوشن موهيتو",
+      "price": "4,500",
+      "description": "نعناع وليمون وماء فوّار — انتعاش كلاسيكي",
+      "image": "images/mojito/1.webp",
+      "category": "mojito"
+    },
+    {
+      "id": 34,
+      "name": "موهيتو عادي",
+      "price": "4,500",
+      "description": "موهيتو طازج بالنعناع والليمون الأخضر",
+      "image": "images/mojito/2.webp",
+      "category": "mojito"
+    },
+    {
+      "id": 35,
+      "name": "موهيتو بالتوت الازرق",
+      "price": "4,500",
+      "description": "توت أزرق طازج بنكهة حلوة حامضة",
+      "image": "images/mojito/3.webp",
+      "category": "mojito"
+    },
+    {
+      "id": 36,
+      "name": "موهيتو الفراولة",
+      "price": "4,500",
+      "description": "فراولة طازجة مع النعناع والليمون المثلج",
+      "image": "images/mojito/4.webp",
+      "category": "mojito"
+    },
+    {
+      "id": 37,
+      "name": "موهيتو الورد",
+      "price": "4,500",
+      "description": "موهيتو بنكهة الورد الرقيقة والمنعشة",
+      "image": "images/mojito/5.webp",
+      "category": "mojito"
+    },
+    {
+      "id": 38,
+      "name": "فراولة",
+      "price": "5,000",
+      "description": "ميلك شيك فراولة طازجة مع آيس كريم",
+      "image": "images/shake/1.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 39,
+      "name": "ميلك شيك بنفسجي",
+      "price": "5,000",
+      "description": "ميلك شيك بنفسجي بنكهة كريمية مميزة",
+      "image": "images/shake/2.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 40,
+      "name": "رائحة القمر الازرق",
+      "price": "5,000",
+      "description": "ميلك شيك أزرق بنكهة خيالية مميزة",
+      "image": "images/shake/3.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 41,
+      "name": "حلم فانيلا العنبر",
+      "price": "5,000",
+      "description": "فانيليا كريمية بلمسة العنبر الفاخرة",
+      "image": "images/shake/4.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 42,
+      "name": "ميلك شيك لوتس",
+      "price": "5,000",
+      "description": "بسكويت اللوتس الأسطوري مع آيس كريم",
+      "image": "images/shake/5.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 43,
+      "name": "ميلك شيك اوريو",
+      "price": "5,000",
+      "description": "أوريو مطحون مع آيس كريم وحليب بارد",
+      "image": "images/shake/6.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 44,
+      "name": "شوكولاته",
+      "price": "5,000",
+      "description": "شوكولاتة داكنة غنية مع كريمة وآيس كريم",
+      "image": "images/shake/7.webp",
+      "category": "milkshake"
+    },
+    {
+      "id": 45,
+      "name": "اروما بلو سكاي اينرجي",
+      "price": "4,000",
+      "description": "موكتيل أزرق منعش بنكهة طاقة مميزة",
+      "image": "images/mocktail/1.webp",
+      "category": "mocktail"
+    },
+    {
+      "id": 46,
+      "name": "اروما بوستر فسلر اينرجي",
+      "price": "4,000",
+      "description": "موكتيل مفعّل بنكهات استوائية منعشة",
+      "image": "images/mocktail/2.webp",
+      "category": "mocktail"
+    },
+    {
+      "id": 47,
+      "name": "كرام بيري اروما دي لايت",
+      "price": "4,000",
+      "description": "موكتيل توت أحمر كريمي ومنعش",
+      "image": "images/mocktail/3.webp",
+      "category": "mocktail"
+    },
+    {
+      "id": 48,
+      "name": "اروما دي لايت",
+      "price": "4,000",
+      "description": "موكتيل استوائي خفيف بألوان زاهية",
+      "image": "images/mocktail/4.webp",
+      "category": "mocktail"
+    },
+    {
+      "id": 72,
+      "name": "اروما سبوتلايت",
+      "price": "4,000",
+      "description": "موكتيل سبوتلايت خفيف بألوان زاهية",
+      "image": "images/mocktail/5.webp",
+      "category": "mocktail"
+    },
+    {
+      "id": 49,
+      "name": "عصير برتقال",
+      "price": "4,000",
+      "description": "برتقال طبيعي معصور أمامك مباشرة",
+      "image": "images/juice/1.webp",
+      "category": "juices"
+    },
+    {
+      "id": 50,
+      "name": "عصير رمان",
+      "price": "5,000",
+      "description": "رمان أحمر طبيعي غني بالنكهة والفيتامينات",
+      "image": "images/juice/2.webp",
+      "category": "juices"
+    },
+    {
+      "id": 51,
+      "name": "عصير ليمون",
+      "price": "4,000",
+      "description": "ليمون طازج معصور بارد ومنعش",
+      "image": "images/juice/3.webp",
+      "category": "juices"
+    },
+    {
+      "id": 52,
+      "name": "عصير مانجو",
+      "price": "5,000",
+      "description": "مانجو كريمية ناعمة بنكهة استوائية",
+      "image": "images/juice/4.webp",
+      "category": "juices"
+    },
+    {
+      "id": 53,
+      "name": "عصير أناناس",
+      "price": "5,000",
+      "description": "أناناس طازج معصور بنكهة استوائية منعشة",
+      "image": "images/juice/5.webp",
+      "category": "juices"
+    },
+    {
+      "id": 54,
+      "name": "كريب مارشملو",
+      "price": "6,000",
+      "description": "كريب طري مع مارشملو وشوكولاتة",
+      "image": "images/dessert/1.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 55,
+      "name": "كريب نوتلا",
+      "price": "6,000",
+      "description": "كريب رقيق محشو بنوتيلا كريمية فاخرة",
+      "image": "images/dessert/2.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 56,
+      "name": "كريب لوتس",
+      "price": "6,000",
+      "description": "كريب رقيق محشو بكريمة اللوتس والموز",
+      "image": "images/dessert/3.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 57,
+      "name": "كريب فراولة",
+      "price": "6,000",
+      "description": "كريب طري مع فراولة طازجة وكريمة",
+      "image": "images/dessert/4.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 58,
+      "name": "كريب وافل",
+      "price": "5,000",
+      "description": "وافل مقرمش مع آيس كريم وصوص شوكولاتة",
+      "image": "images/dessert/5.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 59,
+      "name": "تارت",
+      "price": "5,000",
+      "description": "تارت هش بحشوة كريمية وفواكه طازجة",
+      "image": "images/dessert/6.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 60,
+      "name": "براوني",
+      "price": "5,000",
+      "description": "براوني شوكولاتة داكنة طري من الداخل",
+      "image": "images/dessert/7.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 61,
+      "name": "تيراميسو",
+      "price": "5,000",
+      "description": "بسكويت بالقهوة وكريمة ماسكاربوني إيطالية",
+      "image": "images/dessert/8.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 62,
+      "name": "كوكيز",
+      "price": "2,500",
+      "description": "كوكيز شوكولاتة طازج مقرمش من الخارج",
+      "image": "images/dessert/9.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 63,
+      "name": "بلوبيري",
+      "price": "4,000",
+      "description": "كيك بلوبيري كريمي بطبقات فاخرة",
+      "image": "images/dessert/10.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 64,
+      "name": "ريد فالفيت",
+      "price": "4,000",
+      "description": "كيك أحمر ناعم مع كريمة الجبن البيضاء",
+      "image": "images/dessert/11.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 65,
+      "name": "سان بستيان",
+      "price": "6,000",
+      "description": "تشيز كيك باسك محروق بقلب كريمي ذائب",
+      "image": "images/dessert/12.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 66,
+      "name": "فطيرة تفاح",
+      "price": "5,000",
+      "description": "فطيرة تفاح دافئة بعجينة هشة وقرفة",
+      "image": "images/dessert/13.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 67,
+      "name": "دونات محشي",
+      "price": "3,000",
+      "description": "دونات طري محشو بكريمة أو مربى لذيذة",
+      "image": "images/dessert/14.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 68,
+      "name": "دونات عادي",
+      "price": "2,000",
+      "description": "دونات كلاسيكي بغلاف سكر ناعم",
+      "image": "images/dessert/15.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 69,
+      "name": "كروأسون",
+      "price": "5,000",
+      "description": "كروأسون فرنسي هش وطري من الداخل",
+      "image": "images/dessert/16.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 70,
+      "name": "جيس كيك",
+      "price": "5,000",
+      "description": "تشيز كيك كريمي بقاعدة بسكويت مقرمشة",
+      "image": "images/dessert/17.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 71,
+      "name": "بان كيك",
+      "price": "5,000",
+      "description": "بان كيك طري مع فواكه طازجة وعسل",
+      "image": "images/dessert/18.webp",
+      "category": "desserts"
+    },
+    {
+      "id": 73,
+      "name": "كريب بستاشيو",
+      "price": "6,000",
+      "description": "كريب طري مع صوص البستاشيو",
+      "image": "images/dessert/19.webp",
+      "category": "desserts"
+    }
+  ]
+}

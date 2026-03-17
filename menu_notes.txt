@@ -1,0 +1,8 @@
+{
+      "id": 6,
+      "name": "كابتشينو",
+      "price": "4,000",
+      "description": "رغوة ناعمة مع رشة قرفة عطرية",
+      "image": "images/coffee_1.jpg",
+      "category": "hot_coffee"
+    },
