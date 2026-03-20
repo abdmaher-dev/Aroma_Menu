@@ -49,23 +49,23 @@
   "items": [
     {
       "id": 1,
-      "name": "اسبريسو",
-      "price": "2,000",
+      "name": "اسبريسو سنكل",
+      "price": "3,000",
       "description": "شوت مركّز بعطر الأرابيكا الأصيل",
       "image": "images/hot/1.webp",
       "category": "hot_coffee"
     },
     {
       "id": 2,
-      "name": "اسبريسو مزدوج",
-      "price": "3,000",
+      "name": "اسبريسو دبل",
+      "price": "4,000",
       "description": "ضعف القوة لمن يحب نكهته جريئة",
       "image": "images/hot/2.webp",
       "category": "hot_coffee"
     },
     {
       "id": 3,
-      "name": "الچاي",
+      "name": "شاي",
       "price": "1,000",
       "description": "شاي أصيل دافئ بنكهة كلاسيكية",
       "image": "images/hot/3.webp",
@@ -89,7 +89,7 @@
     },
     {
       "id": 9,
-      "name": "لاتيه إسباني",
+      "name": "سبانيش لاتيه",
       "price": "4,500",
       "description": "لاتيه بلمسة إسبانية مع حليب مكثّف",
       "image": "images/hot/6.webp",
@@ -161,7 +161,7 @@
     },
     {
       "id": 18,
-      "name": "امريكانو",
+      "name": "ايس امريكانو",
       "price": "4,000",
       "description": "قهوة سوداء باردة نقية ومنعشة",
       "image": "images/ice/1.webp",
@@ -169,7 +169,7 @@
     },
     {
       "id": 19,
-      "name": "لاتيه",
+      "name": "ايس لاتيه",
       "price": "5,000",
       "description": "لاتيه مثلج بحليب طازج وثلج ناعم",
       "image": "images/ice/2.webp",
@@ -177,7 +177,7 @@
     },
     {
       "id": 20,
-      "name": "لاتيه إسباني",
+      "name": "ايس سبانش لاتيه",
       "price": "5,000",
       "description": "لاتيه إسباني مثلج بحليب مكثّف",
       "image": "images/ice/3.webp",
@@ -185,7 +185,7 @@
     },
     {
       "id": 21,
-      "name": "لاتيه كراميل",
+      "name": "ايس لاتيه كراميل",
       "price": "5,000",
       "description": "كراميل ذهبي مثلج مع حليب طازج",
       "image": "images/ice/4.webp",
@@ -193,7 +193,7 @@
     },
     {
       "id": 22,
-      "name": "لاتيه موكا",
+      "name": "ايس موكا",
       "price": "5,000",
       "description": "قهوة وشوكولاتة مثلجة مع كريمة",
       "image": "images/ice/5.webp",
@@ -201,7 +201,7 @@
     },
     {
       "id": 23,
-      "name": "لاتيه كوكيز",
+      "name": "ايس كوكيز",
       "price": "5,000",
       "description": "لاتيه مثلج بنكهة الكوكيز المميزة",
       "image": "images/ice/6.webp",
@@ -209,7 +209,7 @@
     },
     {
       "id": 24,
-      "name": "لاتيه فستق",
+      "name": "ايس فستق",
       "price": "5,000",
       "description": "لاتيه مثلج بنكهة الفستق الفاخرة",
       "image": "images/ice/7.webp",
@@ -217,7 +217,7 @@
     },
     {
       "id": 25,
-      "name": "لاتيه ماشا",
+      "name": "ايس ماتشا",
       "price": "6,000",
       "description": "ماتشا يابانية مثلجة مع حليب بارد",
       "image": "images/ice/8.webp",
@@ -225,7 +225,7 @@
     },
     {
       "id": 26,
-      "name": "لاتيه اروما بيتك",
+      "name": "ايس اروما بيتك",
       "price": "5,000",
       "description": "لاتيه اروما بيتك بنكهة خاصة مميزة",
       "image": "images/ice/9.webp",
@@ -241,7 +241,7 @@
     },
     {
       "id": 28,
-      "name": "V60 بارد",
+      "name": "V60 ايس",
       "price": "6,000",
       "description": "قهوة V60 مصفّاة مثلجة بنكهة نقية",
       "image": "images/ice/11.webp",
@@ -454,47 +454,7 @@
       "description": "أناناس طازج معصور بنكهة استوائية منعشة",
       "image": "images/juice/5.webp",
       "category": "juices"
-    },
-    {
-      "id": 54,
-      "name": "كريب مارشملو",
-      "price": "6,000",
-      "description": "كريب طري مع مارشملو وشوكولاتة",
-      "image": "images/dessert/1.webp",
-      "category": "desserts"
-    },
-    {
-      "id": 55,
-      "name": "كريب نوتلا",
-      "price": "6,000",
-      "description": "كريب رقيق محشو بنوتيلا كريمية فاخرة",
-      "image": "images/dessert/2.webp",
-      "category": "desserts"
-    },
-    {
-      "id": 56,
-      "name": "كريب لوتس",
-      "price": "6,000",
-      "description": "كريب رقيق محشو بكريمة اللوتس والموز",
-      "image": "images/dessert/3.webp",
-      "category": "desserts"
-    },
-    {
-      "id": 57,
-      "name": "كريب فراولة",
-      "price": "6,000",
-      "description": "كريب طري مع فراولة طازجة وكريمة",
-      "image": "images/dessert/4.webp",
-      "category": "desserts"
-    },
-    {
-      "id": 58,
-      "name": "كريب وافل",
-      "price": "5,000",
-      "description": "وافل مقرمش مع آيس كريم وصوص شوكولاتة",
-      "image": "images/dessert/5.webp",
-      "category": "desserts"
-    },
+    },,  
     {
       "id": 59,
       "name": "تارت",
@@ -530,7 +490,7 @@
     {
       "id": 63,
       "name": "بلوبيري",
-      "price": "4,000",
+      "price": "5,000",
       "description": "كيك بلوبيري كريمي بطبقات فاخرة",
       "image": "images/dessert/10.webp",
       "category": "desserts"
@@ -538,14 +498,14 @@
     {
       "id": 64,
       "name": "ريد فالفيت",
-      "price": "4,000",
+      "price": "5,000",
       "description": "كيك أحمر ناعم مع كريمة الجبن البيضاء",
       "image": "images/dessert/11.webp",
       "category": "desserts"
     },
     {
       "id": 65,
-      "name": "سان بستيان",
+      "name": "سان سبستيان",
       "price": "6,000",
       "description": "تشيز كيك باسك محروق بقلب كريمي ذائب",
       "image": "images/dessert/12.webp",
@@ -562,7 +522,7 @@
     {
       "id": 67,
       "name": "دونات محشي",
-      "price": "3,000",
+      "price": "3,500",
       "description": "دونات طري محشو بكريمة أو مربى لذيذة",
       "image": "images/dessert/14.webp",
       "category": "desserts"
@@ -570,15 +530,15 @@
     {
       "id": 68,
       "name": "دونات عادي",
-      "price": "2,000",
+      "price": "2,500",
       "description": "دونات كلاسيكي بغلاف سكر ناعم",
       "image": "images/dessert/15.webp",
       "category": "desserts"
     },
     {
       "id": 69,
-      "name": "كروأسون",
-      "price": "5,000",
+      "name": "كرواسون",
+      "price": "4,000",
       "description": "كروأسون فرنسي هش وطري من الداخل",
       "image": "images/dessert/16.webp",
       "category": "desserts"
@@ -591,21 +551,6 @@
       "image": "images/dessert/17.webp",
       "category": "desserts"
     },
-    {
-      "id": 71,
-      "name": "بان كيك",
-      "price": "5,000",
-      "description": "بان كيك طري مع فواكه طازجة وعسل",
-      "image": "images/dessert/18.webp",
-      "category": "desserts"
-    },
-    {
-      "id": 73,
-      "name": "كريب بستاشيو",
-      "price": "6,000",
-      "description": "كريب طري مع صوص البستاشيو",
-      "image": "images/dessert/19.webp",
-      "category": "desserts"
-    }
+
   ]
 }
