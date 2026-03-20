@@ -81,7 +81,7 @@
     },
     {
       "id": 5,
-      "name": "كافيه لاتيه",
+      "name": "كوفي لاتيه",
       "price": "4,000",
       "description": "إسبريسو بحليب مبخّر ورغوة حريرية",
       "image": "images/hot/5.webp",
@@ -121,7 +121,7 @@
     },
     {
       "id": 13,
-      "name": "شوكولاته ساخنة",
+      "name": "هوت جوكليت",
       "price": "4,500",
       "description": "شوكولاتة كريمية دافئة لا تُقاوم",
       "image": "images/hot/10.webp",
@@ -289,7 +289,7 @@
     },
     {
       "id": 34,
-      "name": "موهيتو عادي",
+      "name": "موهيتو كلاسيك",
       "price": "4,500",
       "description": "موهيتو طازج بالنعناع والليمون الأخضر",
       "image": "images/mojito/2.webp",
@@ -297,7 +297,7 @@
     },
     {
       "id": 35,
-      "name": "موهيتو بالتوت الازرق",
+      "name": "موهيتو بلو بيري",
       "price": "4,500",
       "description": "توت أزرق طازج بنكهة حلوة حامضة",
       "image": "images/mojito/3.webp",
@@ -378,7 +378,7 @@
     {
       "id": 45,
       "name": "اروما بلو سكاي اينرجي",
-      "price": "4,000",
+      "price": "5,000",
       "description": "موكتيل أزرق منعش بنكهة طاقة مميزة",
       "image": "images/mocktail/1.webp",
       "category": "mocktail"
@@ -386,7 +386,7 @@
     {
       "id": 46,
       "name": "اروما بوستر فسلر اينرجي",
-      "price": "4,000",
+      "price": "5,000",
       "description": "موكتيل مفعّل بنكهات استوائية منعشة",
       "image": "images/mocktail/2.webp",
       "category": "mocktail"
@@ -394,7 +394,7 @@
     {
       "id": 47,
       "name": "كرام بيري اروما دي لايت",
-      "price": "4,000",
+      "price": "5,000",
       "description": "موكتيل توت أحمر كريمي ومنعش",
       "image": "images/mocktail/3.webp",
       "category": "mocktail"
@@ -402,7 +402,7 @@
     {
       "id": 48,
       "name": "اروما دي لايت",
-      "price": "4,000",
+      "price": "5,000",
       "description": "موكتيل استوائي خفيف بألوان زاهية",
       "image": "images/mocktail/4.webp",
       "category": "mocktail"
@@ -410,7 +410,7 @@
     {
       "id": 72,
       "name": "اروما سبوتلايت",
-      "price": "4,000",
+      "price": "5,000",
       "description": "موكتيل سبوتلايت خفيف بألوان زاهية",
       "image": "images/mocktail/5.webp",
       "category": "mocktail"
